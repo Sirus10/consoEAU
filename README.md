@@ -1,7 +1,8 @@
 # consoEAU
 Télé - Relevé de compteur d'eau pour ajout dans domoticz
 
-Source initiale : 
+Source initiale et explicatoins détaillées : 
+
 http://www.lamaisonsimon.fr/wiki/doku.php?id=maison2:compteur_d_eau:compteur_d_eau
 
 
