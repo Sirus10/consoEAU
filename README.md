@@ -23,6 +23,5 @@ Executer avec ajout de l'information dans Domoticz :
 
 Planifier en Crontab :
 
-# get water info
 0  8-17 * * 1-5 /home/pi/consoEAU/get_water.sh >> /tmp/get_water.sh.log
 
