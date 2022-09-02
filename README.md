@@ -5,6 +5,9 @@ Source initiale et explicatoins détaillées :
 
 http://www.lamaisonsimon.fr/wiki/doku.php?id=maison2:compteur_d_eau:compteur_d_eau
 
+Site et detauils : https://domotique.web2diz.net/tele-releve-de-compteur-deau-avec-ajout-dans-domoticz/
+
+
 
 1 - Addapter le fichier cc1101.c ligne 672 -> ajouter le numero de serie du compteur a relever
 
